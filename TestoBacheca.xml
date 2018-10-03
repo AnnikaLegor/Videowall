@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+  <title>Videowall Bacheca</title>
+  <link>#</link>
+  <description>Bacheca Legor Life</description>
+  <item>
+    <title>Suggerimenti</title>    <link>https://github.com/AnnikaLegor/Videowall/blob/master/TestoBacheca.txt?raw=true</link>
+    <description>Suggeriscici cosa vuoi vedere</description>
+  </item>
+</channel>
+
+</rss>
+
+
